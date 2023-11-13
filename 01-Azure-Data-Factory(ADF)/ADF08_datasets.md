@@ -16,4 +16,4 @@
 # Questions
 1. In Blob two files available (example emp.txt and dept.txt) then how many datasets need to create?
   - 2
-2. 
+2. Why are we choosing None option in the Import schema while we are creating a dataset using a table of Azure SQL database?
